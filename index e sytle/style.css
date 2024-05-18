@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho {
+    background-color: #fbfbfd;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.Pagina princiapal-imagem{
+    width: 10%;
+}
+
+.iten cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16;
+    font-size: 16;
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+.Havit Store{
+    background-image: linear-gradient(#ffffff,#000000);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.Havit-div-conteudo{
+    width: 32;
+}
+
+
+.Havit-titulo{
+    padding: 24 0;
+}
+
+.Produtos{
+    padding: 24 0;
+}
+.Produtos-imagem{
+    width: 120;
+}
+
+.Produtos-icone{
+    width: 24;
+    padding: 4 8;
+}
+
+.Produtos-div{
+    text-align: center;
+    padding: 16 0;
+}
+
+.Produtos-titulo{
+    text-align: center;
+    padding: 50 0;
+}
+
+.Produtos-todos{
+    display: grid;
+    grid-template-columns: 20 20 20 20 20;
+}
+
+.taça{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.taça-imagem{
+    height: 60;
+    padding: 12 0;
+   
+}
